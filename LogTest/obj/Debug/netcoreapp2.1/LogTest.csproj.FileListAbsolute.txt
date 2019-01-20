@@ -1,0 +1,8 @@
+E:\Projects\LogTest\LogTest\bin\Debug\netcoreapp2.1\LogTest.deps.json
+E:\Projects\LogTest\LogTest\bin\Debug\netcoreapp2.1\LogTest.runtimeconfig.json
+E:\Projects\LogTest\LogTest\bin\Debug\netcoreapp2.1\LogTest.runtimeconfig.dev.json
+E:\Projects\LogTest\LogTest\bin\Debug\netcoreapp2.1\LogTest.dll
+E:\Projects\LogTest\LogTest\obj\Debug\netcoreapp2.1\LogTest.csprojAssemblyReference.cache
+E:\Projects\LogTest\LogTest\obj\Debug\netcoreapp2.1\LogTest.csproj.CoreCompileInputs.cache
+E:\Projects\LogTest\LogTest\obj\Debug\netcoreapp2.1\LogTest.AssemblyInfoInputs.cache
+E:\Projects\LogTest\LogTest\obj\Debug\netcoreapp2.1\LogTest.AssemblyInfo.cs
